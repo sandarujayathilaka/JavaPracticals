@@ -20,7 +20,7 @@ public class first {
 	    		
 	    		System.out.print(i);
 	    	}
-	    	System.out.print("\n");
+	    	System.out.print("\n")
 	    	
 	    }
 	    	 
